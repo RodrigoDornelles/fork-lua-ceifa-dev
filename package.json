@@ -9,7 +9,7 @@
     "monaco-editor-webpack-plugin": "7.0.1",
     "style-loader": "3.3.1",
     "wasmoon": "1.15.0",
-    "webpack": "5.75.0",
+    "webpack": "^5.97.1",
     "webpack-cli": "5.0.1"
   },
   "scripts": {
